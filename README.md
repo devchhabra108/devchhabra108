@@ -26,20 +26,11 @@ My work focuses on understanding business requirements, cleaning and analyzing d
 
 - SQL
 - Python
-- MySQL
-- PostgreSQL
-
-**Analytics & Visualization**
-
 - Microsoft Excel (Advanced)
 - Microsoft Power BI
-- Data Cleaning
-- Data Visualization
 - Dashboard Development
 - Business Reporting
 - Exploratory Data Analysis (EDA)
-- Business Intelligence
-- Statistics
 
 **AI & Productivity**
 
@@ -54,8 +45,13 @@ My work focuses on understanding business requirements, cleaning and analyzing d
 
 ## 🛠 Tech Stack
 
-SQL • Python • Excel • Power BI • MySQL • PostgreSQL • Pandas • NumPy • Matplotlib • Git • GitHub
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github" />
+</p>
 
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,excel,pandas,numpy" />
+</p>
 ---
 
 ## 📂 Featured Projects
@@ -87,27 +83,6 @@ Collection of SQL queries covering joins, window functions, CTEs, data cleaning,
 🐍 **Python Data Analysis**
 
 Data cleaning, exploratory data analysis, automation, and visualization using Python.
-
----
-
-## 📜 Certifications
-
-- Advanced Certification in Data Analytics with Generative AI
-- Introduction to Analytics & Excel
-- Data Visualization with Power BI
-- SQL for Data Analysis
-- Programming in Python
-
----
-
-## 📈 Currently Exploring
-
-- Advanced SQL
-- Power BI
-- Python for Data Analytics
-- Data Storytelling
-- Business Intelligence
-- AI in Analytics
 
 ---
 
