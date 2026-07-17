@@ -68,11 +68,13 @@ A comprehensive Power BI dashboard analyzing customer risk, deposits, loans, KPI
 
 🛍️ **Customer Shopping Behavior Analysis**
 
-**Python • PostgreSQL • SQL • Power BI**
+Python • PostgreSQL • SQL • Power BI
 
 End-to-end customer analytics project built using Python, PostgreSQL, SQL, and Power BI to analyze customer purchasing behavior, identify business trends, and deliver actionable insights.
 
-🔗 **View Project:** [Customer Shopping Behavior Analysis]https://github.com/devchhabra108/Customer-Shopping-Behavior-Analysis
+**Key Achievement:** Developed a complete analytics pipeline from raw data preprocessing to interactive dashboard reporting.
+
+📂 View Project: [Customer Shopping Behavior Analysis](https://github.com/devchhabra108/Customer-Shopping-Behavior-Analysis)
 
 ---
 
