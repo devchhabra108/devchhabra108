@@ -60,9 +60,15 @@ My work focuses on understanding business requirements, cleaning and analyzing d
 
 ## 📂 Featured Projects
 
-🏦 **Banking Risk Analysis Dashboard**
+🏦 Banking Risk & Portfolio Analysis
 
-A comprehensive Power BI dashboard analyzing customer risk, deposits, loans, KPIs, and banking performance to support strategic decision-making.
+Python • Power BI • Exploratory Data Analysis (EDA)
+
+End-to-end banking analytics project built using Python and Power BI to analyze banking portfolios, evaluate loan and deposit distribution, monitor financial risk, and deliver interactive business intelligence dashboards.
+
+**Key Achievement:** Performed comprehensive Exploratory Data Analysis (EDA) and developed a multi-page interactive Power BI dashboard to analyze portfolio performance, customer segmentation, Loan-to-Deposit Ratio (LDR), and financial risk indicators.
+
+📂 **View Project:** [Banking Risk & Portfolio Analysis](https://github.com/devchhabra108/Banking-Risk-Portfolio-Analysis)
 
 ---
 
