@@ -84,21 +84,15 @@ End-to-end customer analytics project built using Python, PostgreSQL, SQL, and P
 
 ---
 
-👥 **HR Analytics Dashboard**
+### 🚚 Supply Chain Analytics
 
-Analyzed workforce data to uncover employee trends, attrition patterns, and performance insights.
+**Python • MySQL • SQL • Power BI**
 
----
+End-to-end supply chain analytics project built using Python, MySQL, SQL, and Power BI to analyze logistics operations, evaluate delivery performance, identify operational bottlenecks, and generate actionable business insights.
 
-🧮 **SQL Analytics Repository**
+**Key Achievement:** Developed a complete end-to-end analytics solution using Python, MySQL, SQL, and Power BI, including data cleaning, feature engineering, SQL business analysis with 20 real-world business queries, reusable reporting views, and a multi-page executive dashboard for supply chain performance monitoring.
 
-Collection of SQL queries covering joins, window functions, CTEs, data cleaning, and business case studies.
-
----
-
-🐍 **Python Data Analysis**
-
-Data cleaning, exploratory data analysis, automation, and visualization using Python.
+📂 **View Project:** [Supply Chain Analytics](https://github.com/devchhabra108/Supply-Chain-Analytics)
 
 ---
 
